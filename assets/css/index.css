@@ -1,0 +1,49 @@
+*{
+    font-family: "Open Sans", sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+nav{
+    background-color: #E83E8C;
+    color: white;
+}
+.logo-navbar{
+    width: 100px;
+}
+.navbar-links{
+    margin-inline-start: auto;
+}
+h1{
+    padding: 40px;
+    color: #707070;
+    font-weight: 700;
+}
+h2{
+    color: #707070 !important;
+    font-weight: 700;
+}
+section{
+    padding: 40px;
+}
+.card-personalizada{
+    padding: 20px;
+}
+.icons-section{
+    background-color: #17A2B8;
+    color: white;
+    display: inline-block;
+}
+i{
+    font-size: 55px;
+    padding: 10px;
+}
+footer{
+    background-color: #E83E8C;
+}
+footer img{
+    height: 100px;
+    margin: auto;
+    display: block;
+    padding: 20px;
+}
